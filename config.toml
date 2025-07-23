@@ -47,3 +47,7 @@ git submodule update --init --recursive
   description = "Описание сайта"
   author = "Ваше имя"
   reward = false # Отключите донаты, если не нужны
+
+  [markup]
+  [markup.highlight]
+    style = "github"
