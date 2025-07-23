@@ -1,6 +1,6 @@
 baseURL = "https://dg.wr.io/"
 languageCode = "en-us"
-theme="hugo-theme-cleanwhite-master"
+theme="themes/hugo-theme-cleanwhite-master"
 relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
